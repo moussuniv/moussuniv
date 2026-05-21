@@ -10,7 +10,7 @@ I bridge the gap between complex business logic (Finance/Trade) and modern data 
 * 📈 **Business Domain:** International Trade (Außenhandel), Finance, Maritime Logistics.
 * 💡 **My Philosophy:** I don't just manage data; I build data products that drive ROI and make business models Antifragile.
 * 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/alexslahdji)
-
+d
 <!-- Ici on ajoute de l'espace avec des balises de saut de ligne -->
 <br>
 <br>
