@@ -15,7 +15,8 @@ I bridge the gap between complex business logic (Finance/Trade) and modern data 
 <br>
 <br>
 
-<!-- Ici on centre le graphique avec une balise div -->
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=moussuniv&theme=dark&locale=fr)](https://git.io/streak-stats)
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=moussuniv&locale=fr" alt="GitHub Streak" />
+  </a>
+</p>
