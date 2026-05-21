@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @moussuniv
-- 👀 I’m interested in machine learning and risk management in finance and Decentralized finance
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on projects related to finance and IT
-- 📫 How to reach me on my linkedin : [alex](https://linkedin.com/in/alexslahdji)
+👋 Hi, I'm Alex Slahdji
+
+**Technical Product Owner & Analytics Engineer** 🚀⚓
+
+I bridge the gap between complex business logic (Finance/Trade) and modern data infrastructure. I build automated systems that transform raw data into high-value products.
+
+* 🎯 **My focus:** Product Strategy, Analytics Engineering, and Workflow Automation.
+* 🛠️ **Data Stack:** SQL (Postgres), dbt, Dagster, Metabase, Python.
+* 🌐 **Dev & Ops:** Next.js (TSX), Docker, Bash/Shell Scripting.
+* 📈 **Business Domain:** International Trade (Außenhandel), Finance, Maritime Logistics.
+* 💡 **My Philosophy:** I don't just manage data; I build data products that drive ROI and make business models Antifragile.
+* 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/alexslahdji)
 
 <!---
 moussuniv/moussuniv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
