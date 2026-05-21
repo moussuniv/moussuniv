@@ -1,4 +1,4 @@
-👋 Hi, I'm Alex Slahdji
+### 👋 Guten Morgen, I'm Alex Slahdji
 
 **Technical Product Owner & Analytics Engineer** 🚀⚓
 
@@ -11,14 +11,11 @@ I bridge the gap between complex business logic (Finance/Trade) and modern data 
 * 💡 **My Philosophy:** I don't just manage data; I build data products that drive ROI and make business models Antifragile.
 * 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/alexslahdji)
 
+<!-- Ici on ajoute de l'espace avec des balises de saut de ligne -->
+<br>
+<br>
 
-
-
-
-<!---
-moussuniv/moussuniv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=moussuniv&locale=fr)](https://git.io/streak-stats)
+<!-- Ici on centre le graphique avec une balise div -->
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=moussuniv&theme=dark&locale=fr)](https://git.io/streak-stats)
+</div>
