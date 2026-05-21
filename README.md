@@ -17,6 +17,6 @@ I bridge the gap between complex business logic (Finance/Trade) and modern data 
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=moussuniv&locale=fr" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=moussuniv" alt="GitHub Streak" />
   </a>
 </p>
