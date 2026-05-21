@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and risk management in finance and Decentralized finance
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on projects related to finance and IT
-- 📫 How to reach me on my linkedin : [https://www.linkedin.com/in/slahdji-med/](https://linkedin.com/in/alexslahdji)
+- 📫 How to reach me on my linkedin : [alex](https://linkedin.com/in/alexslahdji)
 
 <!---
 moussuniv/moussuniv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
